@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chanathan03
-- 👀 I’m interested in GITHUB!
-- 🌱 I’m currently learning how to be a developer
-- 💞️ I’m looking to collaborate on ... eating good food
-- 📫 How to reach me ... don't
+- 👀 I’m interested in how AI can improve productivity
+- 🌱 I’m currently learning how bleed the brakes on my bike 
+- 💞️ I’m looking to collaborate on working with folks with different backgrounds to make things go!
+- 📫 How to reach me ... snail mail.
 
 <!---
 chanathan03/chanathan03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
